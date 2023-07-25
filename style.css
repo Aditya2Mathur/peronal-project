@@ -1,71 +1,5 @@
 @charset "UTF-8";
-/*
-	[Master Stylesheet]
-	Template Name: Educator
-	Description: educator is an expressive, virtuous, Responsive, user friendly and powerful HTML 5 Template.This template was built in Bootstrap 5, HTML5 and CSS3.
-	Author: Bosa Themes
-	Author URI: https://themeforest.net/user/bosathemes
-	Version: 1.0.1
-	Primary use: Education
-*/
-/*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
-----------------------------------------------------------------
-1. Normalize
-2. Typography
-3. Table
-4. Forms
-5. Buttons
-6. Pagination
-7. Clearing
-8. Main Header
-9. Home front section
-	* Home banner section
-	* Home About section  
-	* Home Blog section  
-	* Home Contact section  
-	* Home Course section  
-	* Home Fact section  
-	* Home Feature section  
-	* Home Goal section  
-	* Home Progress section  
-	* Home Service section  
-	* Home Team section  
-	* Home Testimonial section  
-10. main Footer
-11. pages
-	* 404 Pages
-	* About Pages
-	* Blog Archive Pages
-	* Blog Single Pages
-	* Career Pages
-	* Career Detail Pages
-	* Categories page
-	* Comming Soon Pages
-	* Contact Pages
-	* FAQ Pages
-	* Feature-course-page
-	* Gallery Pages
-	* Legal Notic pages
-	* Portfolio detail pages
-	* Product pages
-	* Single Pages
-	* Search Pages
-	* Team Detail Page
-	* Team page
-	* Testimonial Pages
-	* Shop Pages
-		*Product Right
-		*Product Detail
-		*Product Cart 
-		*Product Checkout
-12. compatibility
-    * Widget Siderbar
 
----------------------------------------------------------------- */
-/*--------------------------------------------------------------
->>> Normalize
-----------------------------------------------------------------*/
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -245,9 +179,7 @@ template {
   display: none;
 }
 
-/*--------------------------------------------------------------
->>> Typography
-----------------------------------------------------------------*/
+/*-- Typography--*/
 body {
   background-color: #ffffff;
   font-size: 15px;
