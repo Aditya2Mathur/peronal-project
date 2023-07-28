@@ -1362,11 +1362,11 @@ input[type=submit]:focus {
   right: 15px;
   bottom: 15px;
   z-index: 99;
-  -webkit-transition: background-color 0.3s, color 0.3s;
-  -moz-transition: background-color 0.3s, color 0.3s;
-  -ms-transition: background-color 0.3s, color 0.3s;
-  -o-transition: background-color 0.3s, color 0.3s;
-  transition: background-color 0.3s, color 0.3s;
+  -webkit-transition: background-color 0.2s, color 0.2s;
+  -moz-transition: background-color 0.2s, color 0.2s;
+  -ms-transition: background-color 0.2s, color 0.2s;
+  -o-transition: background-color 0.2s, color 0.2s;
+  transition: background-color 0.2s, color 0.2s;
 }
 .to-top-icon:hover {
   background-color: #961040;
@@ -2809,9 +2809,7 @@ input[type=submit]:focus {
   background-size: 13% auto;
 }
 
-/*--------------------------------------------------------------
->>> Home service section  
-----------------------------------------------------------------*/
+/*--- Home Card Section----*/
 .home-service {
   margin: 110px 0;
   position: relative;
@@ -8343,7 +8341,7 @@ product slider range for price css
 }
 .categories-section .service-wrapper .service-content {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 45px;
 }
 @media screen and (max-width: 991px) {
@@ -9343,9 +9341,7 @@ product slider range for price css
   margin-top: 20px;
 }
 
-/*--------------------------------------------------------------
->>> cheakout page
-----------------------------------------------------------------*/
+/*-- cheakout page ----*/
 .checkout-section {
   padding: 110px 0;
 }
